@@ -1,4 +1,6 @@
-#include <cocoa/cocoa.h>
+#import <Cocoa/Cocoa.h>
+#import <OpenGL/OpenGL.h>
+#import <OpenGL/gl.h>
 #include "Macinwin.hpp"
 
 //I actuall dont know Objective-C im just kinda copying from resources
